@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello all, 
+
+I like burritos and burgers. Currently learning python!
